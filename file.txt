@@ -1,6 +1,10 @@
 Жили-были на свете 3 армии(разработчика),
 <<<<<<< HEAD
+<<<<<<< HEAD
 Назывались они: Horde(Орда), Alliacne и Legionо
+=======
+Назывались они: Horde, Alliacne(Альянс) и Legion
+>>>>>>> 09608129e78c679ca6c8f6d7f934d659a41a61e3
 =======
 Назывались они: Horde, Alliacne и Legion(Легион)
 >>>>>>> fd9c3a81b35e2ee88ffc85f254e4220f6f284eb1
