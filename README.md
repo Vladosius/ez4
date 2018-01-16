@@ -2,8 +2,8 @@
 
 ## Команда разработчиков
 
-1. Mr. First
-2. Mr. Secod
-3. Mr. Third
+1. Horde
+2. Alliance
+3. Legion
 
 ### @ 2018 КИПУ
